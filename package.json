@@ -1,0 +1,12 @@
+{
+  "name": "food-delivery-demo",
+  "version": "1.0.0",
+  "description": "Online Food Delivery System - UEF Final Project Demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
